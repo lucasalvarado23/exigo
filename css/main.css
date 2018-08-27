@@ -1519,6 +1519,12 @@ header .header-logo a {
   min-height: 804px;
   position: relative;
 }
+@media only screen and (max-width: 400px) {
+  #home {
+    background-color: red;
+  }
+}
+
 #home .overlay {
   position: absolute;
   top: 0;
