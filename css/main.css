@@ -1955,6 +1955,10 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   color: #FFFFFF;
   margin-bottom: 3rem;
 }
+#foot {
+  text-align: center;
+  color: white;
+}
 
 /* ------------------------------------------------------------------- 
  * responsive:
