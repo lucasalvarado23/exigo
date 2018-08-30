@@ -47,3 +47,10 @@ div.desc {
     display: table;
     clear: both;
 }
+span {
+    color: white;
+    text-align: center;
+}
+a{
+    color: white;
+}
