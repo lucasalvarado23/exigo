@@ -54,3 +54,7 @@ span {
 a{
     color: white;
 }
+
+form-footer{
+    display: none !important;
+}
